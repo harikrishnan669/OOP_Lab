@@ -1,1 +1,1 @@
-# OOP-s-program Lab
+# OOP's lab
