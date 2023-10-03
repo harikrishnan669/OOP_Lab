@@ -18,6 +18,7 @@ class userinput
             if(str.charAt(i)!=str.charAt(length-i-1))
             {
                  flag=0;
+                break;
             }
             else
             {
