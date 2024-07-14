@@ -1,6 +1,6 @@
 # OBJECT ORIENTED PROGRAMMING USING JAVA (S3)
 # Questions
-
+Includes syllabus questions and try outs.
 1. Write a java program to create an abstract class named Shape that contains an empty
 method named numberOfSides( ). Provide three classes named Rectangle, Triangle and
 Hexagon such that each one of the classes extends the class Shape. Each one of the class-
